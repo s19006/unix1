@@ -1,3 +1,3 @@
 #!/bin/bash
 
-tar czf /tmp/home-`date "+%Y+%m+%d"`.tar.gz -X ~/ex.cnf ~/
+tar czf /tmp/home-`date "+%Y%m%d"`.tar.gz -X ~/ex.cnf ~/
