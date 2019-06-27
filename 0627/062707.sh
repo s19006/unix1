@@ -13,7 +13,7 @@ cd $HOME/rep/unix1/
 git status
 while :
 do
-# git add/commit/pushの選択画面
+
     echo '1) git log'
     echo '2) git --oneline'
     echo '3) git -oneline--name-only'
